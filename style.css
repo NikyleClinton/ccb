@@ -1,0 +1,163 @@
+/* Helper Styles: Do not Delete */
+body {
+	margin:  0;
+	padding:  0;
+	box-sizing:  border-box;
+	background-color: #DCD6F7;
+}
+
+/* Put your CSS Styles Below this Line */
+header {
+	display: flex;
+	align-items: center;
+	padding:  0 5%;
+}
+.logo {
+	width: 15%;
+}
+
+.logo img {
+	width: 100%;
+}
+
+
+
+nav {
+	width:  85%;
+}
+
+nav ul {
+	list-style: none;
+	padding:  0;
+	display: flex;
+	justify-content: space-between;
+}
+nav ul li {
+	font-size:  24px;
+}
+/**/
+.cup {
+	width: 10%;
+}
+.cup img {
+	width: 100%;
+}
+.bread {
+	width: 10%;
+}	
+.home-img {
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.bread img {
+	width: 100%;
+}
+.above-img{
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: #FFA360;
+}
+
+.menu-top {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.menu-top img {
+	width: 20%;
+}
+
+
+.home-intro {
+	display: flex;
+}
+.blog {
+	width: 50%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+	background-color: #FFA360;
+	padding: 2%;
+	text-align: center;
+
+}
+.specials{
+	width: 50%;
+	height: 25%;
+	display: flex;
+	justify-content: safe right;
+	flex-direction: column;
+	font-size: 25px;
+}
+.menu-specials{
+	width: 50%;
+	height: 25%;
+	display: flex;
+	justify-content: safe right;
+	flex-direction: column;
+	font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+	color: #FFA360;
+	flex-direction: column;
+}
+.menu-bottom {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.menu-bottom img {
+	width: 20%;
+}
+.menu-specials{
+	width: 50%;
+	height: 25%;
+	display: flex;
+	justify-content: safe right;
+	flex-direction: column;
+	font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+	color: #FFA360;
+	flex-direction: column;
+}
+.bottom-names{
+	width: 50%;
+	height: 25%;
+	display: flex;
+	justify-content: safe right;
+	flex-direction: column;
+	font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+	color: #FFA360;
+	flex-direction: column;
+}
+
+.foot-left {
+	width: 10;
+	background-color: #FFA360;
+	justify-content: all;
+	font-size: 35px;
+	padding: 3%;
+	font-family: 'Oswald', sans-serif;
+}
+.foot-right{
+	background-color: #FFA360;
+	justify-content: all;
+	font-size: 35px;
+	padding: 3%;
+	font-family: 'Oswald', sans-serif;
+}	
+
+h2 {
+	text-align: left;
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+
+}
+
+li {
+	
+	font-family: 'Oswald', sans-serif;
+
+}
+
